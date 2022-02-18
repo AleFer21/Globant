@@ -1,2 +1,2 @@
-# Globant
+# Globant University
  Ejercicios Git
